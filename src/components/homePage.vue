@@ -21,199 +21,157 @@
 			<div class="activityBg" style="margin-bottom:50px;">
 				粤港澳大湾区建设是习近平总书记亲自谋划、亲自部署、亲自推动的国家战略，是新时代推动形成全面开放新格局的新尝试，是推动“一国两制”事业发展的新实践，也是前海新时期开发开放重大战略机遇。前海立足国家战略优势，汇聚全球创新能量，建设“一带一路”国际路演中心，为全球科技创新企业提供资本及产业资源支持，搭建路演展示舞台，推动粤港澳大湾区建设。
 			</div>
-			<div class="headlineright" style="width:89.3%;">· 大数据及云计算专场路演介绍 ·</div>
+			<div class="headlineright" style="width:89.3%;height:62px;text-align:right">
+				· 2019前海精准医疗高峰论坛<br/>
+				暨医疗健康专场路演 ·
+			</div>
 			<div class="activityBg" style="margin-bottom:50px;clear:both;margin-bottom:55px;">
-				云计算、大数据带来信息技术服务模式和应用方式的重大变革，已逐步成为经济社会发展的新引擎，正在改变这个世界，更是未来巨头生态标配。大数据、云计算的迅速发展,也为投资带来了更加广阔的领域与可能，在这一持续热门的领域,“一带一路”前海国际路演中心借势出击,举办大数据、云计算专场路演，并支持同步在线视频路演。
+				我国精准医疗行业发展迅猛，市场规模增长速度较快，越来越多资本、企业进入该领域进行发展。在这一持续热门的领域,“一带一路”前海国际路演中心特邀行业大咖、产业资本、上市公司、独角兽企业等举办2019深圳精准医疗高峰论坛暨医疗健康专场路演，共同探讨行业发展新模式、新技术以及行业的投资机会与逻辑。
+			</div>
+			<div class="headlineleft" style="width:73.6%;">
+				· 部分拟邀嘉宾 ·
+			</div>
+			<div class="judge" style="margin-bottom:51px;">
+				<img src="./img/org.png" alt="">
 			</div>
 			<div class="headlineleft" style="width:73.6%;">
 				· 活动流程 ·
 			</div>
 			<!-- 时间轴 -->
 			<div class="timeShaft">
+				<div class="timeTitleTwo">
+					<span>09:00-12:00</span>
+					<span>2019前海精准医疗高峰论坛</span>
+				</div>
 				<ul>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>14:00-14:30</span>
-						<span>签到</span>
+						<span>09:00-09:30</span>
+						<span>签到暖场</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>14:30-14:35</span>
-						<span>主持人开场，介绍贵宾</span>
+						<span>09:30-09:35</span>
+						<span>主持人开场</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>14:35-14:40</span>
-						<span>嘉宾评委聘书颁发仪式</span>
+						<span>09:35-10:00</span>
+						<span>主办方致辞</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>14:40-17:40</span>
-						<span>项目路演(9个项目，每个项目15分钟路演，5分钟嘉宾点评)</span>
+						<span>10:00-10:15</span>
+						<span>主题演讲：中国精准医疗产业发展趋势</span>
 					</li>
 					<li>
 						<span>
 							<i></i>
 						</span>
-						<span>17:40-18:00</span>
-						<span>自由交流</span>
+						<span>10:15-10:30</span>
+						<span>主题演讲：创新技术助推精准医疗发展</span>
+					</li>
+					<li>
+						<span>
+							<i></i>
+						</span>
+						<span>10:30-11:15</span>
+						<span>圆桌：医疗技术革新与产业升级</span>
+					</li>
+					<li>
+						<span>
+							<i></i>
+						</span>
+						<span>11:15-12:00</span>
+						<span>圆桌：精准医疗产业投资机会与逻辑</span>
+					</li>
+				</ul>
+				<div class="timeTitleTwo">
+					<span>13:30-18:00</span>
+					<span>医疗健康专场路演</span>
+				</div>
+				<ul>
+					<li>
+						<span>
+							<i></i>
+						</span>
+						<span>13:30-14:00</span>
+						<span>签到入场</span>
+					</li>
+					<li>
+						<span>
+							<i></i>
+						</span>
+						<span>14:00-14:05</span>
+						<span>主持人开场</span>
+					</li>
+					<li>
+						<span>
+							<i></i>
+						</span>
+						<span>14:05-14:20</span>
+						<span>聘书颁发仪式</span>
+					</li>
+					<li>
+						<span>
+							<i></i>
+						</span>
+						<span>14:20-17:50</span>
+						<span>项目路演</span>
 					</li>
 				</ul>
 			</div>
 			<!-- 路演项目 -->
 			<div class="headlineright" style="width:73.6%;margin-top:10px;margin-bottom:19px">
-				· 拟邀路演项目 ·
+				· 部分拟邀路演项目 ·
 			</div>
 			<!-- 路演项目列表 -->
 			<div class="roadProject">
 				<ul>
-					<li>“互联网+大美业”云平台独有“5+1”模式赋能新时代大美业生态链</li>
-					<li class="disc">公司致力于建设最大的大美业互联网创业、服务及资源平台，通过互联网云平台链接医美、生美的机构、人、产品和服务，专注为医美机构提供全方位一站式服务解决方案，做“互联网+大美业”生态链的缔造者。</li>
-					<li class="disc">云平台独有“5+1”模式：5指的是将新医美院务管理、渠道分销管理、互联网关系链营销、客户关系CRM、美业商城等5大系统全打通，1是指通过智能支付实时数据云端联动，使“大美业+互联网”完美落地。</li>
-					<li class="disc">云平台优势：专业落地实施顾问团队、海量美业精准客户资源、一站服务、 全生态链实力合作伙伴。渠道分销管理、美付通智能支付解决方案属公司在医美行业首家率先推出的服务，创新业务领先行业6-12个月。</li>
+					<li>路演项目一：基因检测服务提供商</li>
+					<li>
+						公司简介：公司是全球领先的提供分子诊断标准品的研发创新型的高科技企业。
+					</li>
+					<li>投资亮点：</li>
+					<li class="disc">有多个系列的分子诊断产品，产品管线异常丰富；</li>
+					<li class="disc">目前华大、Illumina、罗氏、燃石医学、安诺优达等国内外技术平台开发商或试剂盒开发商都已使用了菁良的产品（定制型产品），合作客户多为分子诊断行业龙头；</li>
+					<li class="disc">创始人团队均为剑桥大学博士，具有十多年头部相关公司工作经验；</li>
+					<li class="disc">首个进入国内市场的本土标准品品牌。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>工业设备远程维护物联网软硬件解决方案供应商</li>
-					<li class="disc">提供标准化的行业产品和定制化的行业服务，具有产品+服务的优势；</li>
-					<li class="disc">完整的软件平台和硬件研发专业团队，积累近十年；</li>
-					<li class="disc">产品和商业模式已经初步验证；</li>
-					<li class="disc">处于估值洼地，未来回报更高。</li>
+					<li>路演项目二：肿瘤液态活检技术研发商</li>
+					<li>
+						公司简介：公司是国内肿瘤液态活检业内的潜力企业，公司目前拥有的LiquidBiopsy技术和MDA test肿瘤液态活检技术，专注于CTC的捕获与检测技术的研究，其产品和服务能够辅助医生为患者做出诊断和治疗建议。
+					</li>
+					<li>投资亮点：</li>
+					<li class="disc">丽珠集团孵化项目，具有资金优势和技术平台支持优势；已获得广东政府3000万的支持，备受省市区各级政府关注；</li>
+					<li class="disc">拥有自主研发LiquidBiopsy技术和MDA test肿瘤液态活检技术，长期专注于CTC的捕获与检测技术，已经积累了很高的技术门槛；</li>
+					<li class="disc"> 创始团队现已经搭建培育了具有丰富科研经验、市场经营的专业化人才队伍，极具团队竞争力。</li>
 				</ul>
 			</div>
 			<div class="roadProject">
 				<ul>
-					<li>致力于为建设开发全周期提供AI解决方案与决策管理的科技公司</li>
-					<li class="disc">
-						<div>
-							<span>时机：</span>地产产业转型智能化升级。面对万亿级的房地产市场，正逢房地产产业整体转型化升级时机，以及城市化持续发展；
-						</div>
+					<li>路演项目三：CAR-T免疫疗法与纳米抗体研发商</li>
+					<li>
+						公司简介：公司以CAR-T细胞免疫治疗和纳米抗体生物药研发为主要发展方向，分别在北京和深圳建有研发、生产基地及羊驼养殖基地的国家高新技术企业。
 					</li>
-					<li class="disc">
-						<div>
-							<span>逻辑：</span>AI-产品，AI+服务，AIｘ业务。用智能设计为房企和建筑设计机构，增强设计收益，提高设计效率，进而串联规模化集中；
-						</div>
-					</li>
-					<li class="disc">
-						<div>
-							<span>优势：</span>人工智能建筑设计引领者。全球第一款人工智能建筑设计云平台，业内70%+品牌认知度，公认的人工智能龙头企业；
-						</div>
-					</li>
-					<li class="disc">
-						<div>
-							<span>壁垒：</span>多项核心技术与数据。近十年研究探索出的开创性多AI模型融合的核心技术，渠道数据与独家数据行业数据；
-						</div>
-					</li>
-					<li class="disc">
-						<div>
-							<span>验证：</span>持续增长的模式+极速增长的赋能服务模式。数万产品基础用户，Top20开发商35%占有率，数十家头部设计公司 客户；
-						</div>
-					</li>
-					<li class="disc">
-						<div>
-							<span>团队：</span>国际顶级资深行业跨界团队。世界著名建筑事务所资深建筑团队+硅谷技术团队+丰富经验品牌与营销团队；
-						</div>
-					</li>
+					<li>投资亮点：</li>
+					<li class="disc">拥有产业化经验及企业管理经验丰富的核心团队，联合创始人（高级科学家）系全球最早从事纳米抗体研究的科学家之一，也是加拿大国家研究院（NRC）纳米抗体技术的奠基人之一。首席科学家为基因与肿瘤研究专家，在肿瘤治疗领域具备多年临床经验。</li>
+					<li class="disc">兼具成熟与创新的核心技术平台。</li>
+					<li class="disc">产品管线丰富，覆盖适应症广泛，同时拥有CAR-T 药物开发平台和纳米抗体药物开发平台，建立了针对多发性骨髓瘤、白血病、淋巴癌、软组织肉瘤、直肠癌等丰富的产品线。</li>
 				</ul>
 			</div>
-			<div class="roadProject">
-				<ul>
-					<li>机理模型驱动的数字孪生技术赋能先进制造和智慧城市建设</li>
-					<li class="disc">公司产品主要面向先进制造和智慧城市建设两大领 域，市场需求旺盛，前景广阔；</li>
-					<li class="disc">数字孪生技术是当前国际上公认的最具发展潜力的战略性新兴技术之一，核心技术团队在该技术领域耕耘多年，实现了机理模型驱动的数字孪生技术应用，是国内首家突破多项智能产品研制和应用核心问题的团队，在我国重大航天工程中经过实战检验，公司技术优势明显；</li>
-					<li class="disc">公司核心成员覆盖多业务领域，在公司运营、战略规划、项目管理和质量体系控制、核心技术研发等领域拥有丰富的实战经验，团队组合强健；</li>
-					<li class="disc">在强有力的战略规划、技术攻关、运营支撑的协同保障下，公司发展潜力巨大。</li>
-				</ul>
-			</div>
-			<div class="roadProject">
-				<ul>
-					<li>智慧应急城市运营商</li>
-					<li class="disc">提供应急行业从大数据分析到智能传感器的端到端解决方案；</li>
-					<li class="disc">跨系统数据引擎，解决信息孤岛，加装智能大脑，系统开发提速45%；</li>
-					<li class="disc">传感器满足高温、高压、易爆、腐蚀性（特殊工况要求），应对偏远无人场景要求；</li>
-					<li class="disc">物联网引擎：兼容NB-IoT、5G模块和RPMA制式，具备加密、加速等多种研发技术。</li>
-				</ul>
-			</div>
-			<div class="roadProject">
-				<ul>
-					<li>智能移动办公解决方案提供商</li>
-					<li class="disc">公司产品以及商业解决方案主要应用在STR场景文本识别以及人工智能大数据领域，已在30多个行业的100多个商业场景实现落地，已然构建了成熟的商业模式。</li>
-					<li class="disc">公司深耕人工智能与大数据，建立了海量的企业数据闭环，涵盖2.2亿家企业条目、700多亿条企业商业数据、1000多个维度全面透视企业，建立企业画像，全量的大数据库以及智能的人工算法已经成为合合信息的独特优势。</li>
-					<li class="disc">公司核心成员覆盖多业务领域，在公司战略规划、核心技术创新、公司品牌运营、产品研发迭代等领域有着丰富的实战经验，在强有力的战略规划、技术迭代和品牌运营的协同保障下，公司发展潜力巨大。</li>
-					<li class="disc">公司旗下C端明星产品包括：名片全能王、扫描全能王、启信宝以及找到APP，其中名片全能王以及扫描全能王全球累计下载超过6亿。</li>
-					<li class="disc">公司的STR智能场景文本识别以及企业大数据解决方案已经为华为、中国农业银行、招商银行、三星、日本软银、中国太平洋保险、eBay、顺丰等数百家世界500家企业提供技术服务和业务支持，成为其长期的合作伙伴。</li>
-				</ul>
-			</div>
-			<div class="roadProject">
-				<ul>
-					<li>用数字化技术来搭建牙科产业互联网+数字化临床应用+数字化制造全产业链平台</li>
-					<li class="disc">公司产品主要面向牙科行业，市场潜力巨大，前景广阔；</li>
-					<li class="disc">数字化技术在牙科行业的应用是牙科行业未来的发展方向，核心技术和设备一直被欧美极少数一二个国家所控制，我们是国内首家在牙科数字化技术和设备上超越欧美发达国家，同时，在临床应用和义齿加工端实现突破的团队，产品技术领先优势明显；</li>
-					<li class="disc">公司核心成员深耕医疗行业多年，具有很强的医疗行业资源整合能力；</li>
-					<li class="disc">未来十年将是牙科行业高速发展的十年，牙科行业将达到万亿级的产业规模，公司在数字化技术和设备方面的领先优势，以及在临床数字化技术和义齿技工端数字技术应用方面的技术积累，足以保障公司未来十年的快速发展。</li>
-				</ul>
-			</div>
-			<div class="roadProject">
-				<ul>
-					<li>多云安全融合智能应用交付专家</li>
-					<li class="disc">公司致力于通过云应用交付平台为整体解决方案，为行业企业客户提供有前瞻性、云演进性的专家级行业应用交付服务，迄今已为中国多家行业信息化领军企业提供整体交付方案和服务，以帮助中国企业提供全球化IT支持方案的领军企业为目标的专业信息化产品公司。</li>
-					<li class="disc">公司立足世界最前沿、最具前瞻性技术的本地化研发和服务，拥有的专业云应用交付产品、行业混合云交付平台、应用负载均衡、全局负载均衡、链路负载均衡产品、云负载均衡等一系列可以与国际同步的专业产品和解决方案。</li>
-					<li class="disc">鸬鹚云应用交付产品短短4年多时间，实现以下的突破</li>
-					<li class="disc noafter">
-						<div>
-							<span>1、</span>相关技术水平国内领先，并保持和国际理念同步。
-						</div>
-					</li>
-					<li class="disc noafter">
-					    <div>
-							<span>2、</span>成功交付100+以上客户（包括广东省高院、广东省教育厅江西省工信委等省级单位，中国机械设备工程有限公司等国家级企业以及广州番禺何贤医院、南昌第一人民医院等医疗教育机构等）
-						</div>
-					</li>
-					<li class="disc noafter">
-						<div>
-							<span>3、</span>2016-2019年连续三年广东省计算机用户推荐产品奖
-						</div>
-					</li>
-					<li class="disc noafter">
-						<div>
-							<span>4、</span>2018年中国云应用交付用户最值得信赖产品奖
-						</div>
-					</li>
-					<li class="disc noafter">
-						<div>
-							<span>5、</span>获得华为云等公有云认证，成为国内支持公有云和私有云最多的专业云应用交付器厂商
-						</div>
-					</li>
-					<li class="disc noafter">
-						<div>
-							<span>6、</span>广东省计算机用户协会副会长单位/前海云计算及人工智能产业联盟会长单位
-						</div>
-					</li>
-					<li class="disc noafter">
-						<div>
-							<span>7、</span>2019年团队项目通过阿里云AI赛道筛选
-						</div>
-					</li>
-				</ul>
-			</div>
-			<div class="roadProject">
-				<ul>
-					<li>智能工业物联网SaaS</li>
-					<li class="disc">物联网是时代趋势，工业物联网是国家战略，前景广阔。</li>
-					<li class="disc">10年刻意训练思考力，5年构建模块化，积木式搭建软件系统能力。在标准化程度低、协议众多对接复杂的工业物联网场景下取得了较大突破。目前可对接主流的PLC设备和70%左右的工控设备。</li>
-					<li class="disc">基于模块化思想研发的自定义规则引擎、自定义报表、自定义设备工单等功能实现了用标准经的功能满足客户相对个性化的需求。</li>
-					<li class="disc">经过验证的高可用、高并发业务架构与底层基础数据计算服务，可靠支撑工业场景下海量数据的处理标准化可叠加的方法与流程可打造超高效率的团队(标准化、可叠加的思考力提升方法与流程，快速提升员工解决问题的能力;标准化、可叠加的积木搭建式系统开发方法(20+模块)，效率提升近10倍;标准化、可叠加的编码规范和代码质量检查体系保证代码质量)。</li>
-				</ul>
-			</div>
+			
 			<div class="continue">
 				路演项目 持续邀约中...
 			</div>
@@ -511,8 +469,8 @@ export default {
 			tableList:[], // 报名列表数据
 			domain:'https://app.dyly.com',
 			joinFlag:false, // 参会报名显示和隐藏
-			title:'【邀请函】“一带一路” 前海国际路演中心·大数据及云计算专场路演',
-			decs:'智汇全球·追梦前海 路演时间：10月22日14:00 路演地点：前海深港青年梦工场>>',
+			title:'【邀请函】“一带一路”国际路演中心系列路演活动·2019前海精准医疗高峰论坛暨医疗健康专场路演',
+			decs:'智汇全球·追梦前海 路演时间：11月28日9:00 路演地点：前海深港青年梦工场>>',
 			imgUrl:'https://m.dyly.com/register/app_h5/img/qh.jpg',
 			sharehref:'https://m.dyly.com/register/app_h5/qh/index.html'
 		}
@@ -597,7 +555,7 @@ export default {
 				"position": this.form.position, // 职位
 				"phoneNo": this.form.phone, // 手机号
 				"wxNum": this.form.wechat, // 微信
-				"roadshowId":"3",
+				"roadshowId":"4",
 				"type": "3",
 				"language": "0"
 			}).then((res)=>{
@@ -711,7 +669,7 @@ export default {
 		getTableList(){ // 获取报名列表
 			this.axios.get(this.domain +'/vc/qhRoadShow/getSignUpList',{
 				params:{
-					"roadShowId":3,
+					"roadShowId":4,
 				}
 			}).then((res)=>{
 				if(res.data.status == 1){
@@ -852,6 +810,27 @@ export default {
 				width:100%;
 				padding:37px 0 0 19px;
 				box-sizing: border-box;
+				.timeTitleTwo{
+					width:100%;
+					padding:32px 0 23px 0;
+					box-sizing: border-box;
+					display: flex;
+					flex-direction: column;
+					justify-content: center;
+					color:#41B3F3;
+					span{
+						display:inline-block;
+						&:nth-child(1){
+							font-weight: bold;
+							font-size:32px;
+							font-family:CalvertMTStd-Bold,CalvertMTStd;
+						}
+						&:nth-child(2){
+							font-size:24px;
+							font-family:PingFangSC-Regular,PingFang SC;
+						}
+					}
+				}
 				ul{
 					width:100%;
 					li{
@@ -928,6 +907,7 @@ export default {
 						line-height:22px;
 						// list-style: disc;
 						list-style:none;
+						margin-bottom:12px;
 						&:nth-child(1){
 							font-size:15px;
 							font-weight: bold;
@@ -1090,6 +1070,9 @@ export default {
 					width:100%;
 					display:flex;
 					margin-bottom:1px;
+					&:nth-child(5){
+						height:64px;
+					}
 					div{
 						height:100%;
 						background:rgba(59,150,210,0.15);
@@ -1114,6 +1097,7 @@ export default {
 							text-align: center;
 						}
 					}
+					
 				}
 				.srecialColor{
 					color:rgba(255,255,255,0.3);
