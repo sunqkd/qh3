@@ -26,7 +26,7 @@
 				暨医疗健康专场路演 ·
 			</div>
 			<div class="activityBg" style="margin-bottom:50px;clear:both;margin-bottom:55px;">
-				我国精准医疗行业发展迅猛，市场规模增长速度较快，越来越多资本、企业进入该领域进行发展。在这一持续热门的领域,“一带一路”前海国际路演中心特邀行业大咖、产业资本、上市公司、独角兽企业等举办2019深圳精准医疗高峰论坛暨医疗健康专场路演，共同探讨行业发展新模式、新技术以及行业的投资机会与逻辑。
+				我国精准医疗行业发展迅猛，市场规模增长速度较快，越来越多资本、企业进入该领域进行发展。在这一持续热门的领域,“一带一路”前海国际路演中心特邀行业大咖、产业资本、上市公司、独角兽企业等举办前海精准医疗高峰论坛暨医疗健康专场路演，共同探讨行业发展新模式、新技术以及行业的投资机会与逻辑。
 			</div>
 			<div class="headlineleft" style="width:73.6%;">
 				· 部分拟邀嘉宾 ·
@@ -469,7 +469,7 @@ export default {
 			tableList:[], // 报名列表数据
 			domain:'https://app.dyly.com',
 			joinFlag:false, // 参会报名显示和隐藏
-			title:'【邀请函】“一带一路”国际路演中心系列路演活动·2019前海精准医疗高峰论坛暨医疗健康专场路演',
+			title:'【邀请函】2019前海精准医疗高峰论坛暨医疗健康专场路演',
 			decs:'智汇全球·追梦前海 路演时间：11月28日9:00 路演地点：前海深港青年梦工场>>',
 			imgUrl:'https://m.dyly.com/register/app_h5/img/qh.jpg',
 			sharehref:'https://m.dyly.com/register/app_h5/qh/index.html'
