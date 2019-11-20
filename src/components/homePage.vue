@@ -683,7 +683,7 @@ export default {
 				width:100%;
 				position:absolute;
 				left:0;
-				bottom:174px;
+				bottom:184px;
 				z-index:1;
 				padding-left:26px;
 				box-sizing: border-box;
