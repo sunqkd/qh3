@@ -3,131 +3,41 @@
 		<!-- 头部部分 -->
 		<div class="homebg">
 			<!-- 背景图 -->
-			<img src="./img/bg1.png" alt="" class="homeTitlebg">
-			<img src="./img/titleName.png" alt="" class="homeText">
+			<img src="./img/bg1.png" alt="" class="homeTitlebg" >
+			<img src="./img/titleName.png" alt="" class="homeText wow animated bounce">
 			<!-- 单位 -->
 			<div class="unit">
-				<span>指导单位：前海管理局</span>
-				<span>主办单位：前海科创投控股有限公司</span>
-				<span>承办单位：前海深港青年梦工场&ensp;第一路演</span>
-				<img src="./img/LOGO@2x.png" alt="" style="height:20px;width:auto;margin-top:2px">
+				<span class="wow animated bounceInLeft">指导单位：前海管理局</span>
+				<span class="wow animated bounceInRight">主办单位：前海科创投控股有限公司</span>
+				<span class="wow animated bounceInRight" style="text-indent:65px;">前海科控创业投资有限公司</span>
+				<span class="wow animated bounceInLeft">承办单位：前海深港青年梦工场&ensp;第一路演</span>
+				<img class="wow animated bounceInRight" src="./img/LOGO@2x.png" alt="" style="height:20px;width:auto;margin-top:2px">
 			</div>
 			<div class="icon-video transform"></div>
 			<audio src="https://static.dyly.com/h5/h5style/jinghe/bg.mp3" id="bg-music" controls="controls" autoplay="autoplay"
 				loop></audio>
 		</div>
 		<div class="homeBody">
-			<div class="headlineleft" style="width:73.6%;">· 活动背景 ·</div>
+			<div class="headlineleft wow animated bounceInLeft" style="width:73.6%;">· 活动背景 ·</div>
 			<div class="activityBg" style="margin-bottom:50px;">
 				粤港澳大湾区建设是习近平总书记亲自谋划、亲自部署、亲自推动的国家战略，是新时代推动形成全面开放新格局的新尝试，是推动“一国两制”事业发展的新实践，也是前海新时期开发开放重大战略机遇。前海立足国家战略优势，汇聚全球创新能量，建设“一带一路”国际路演中心，为全球科技创新企业提供资本及产业资源支持，搭建路演展示舞台，推动粤港澳大湾区建设。
 			</div>
-			<div class="headlineright" style="width:89.3%;height:62px;text-align:right">
-				· 2019前海精准医疗高峰论坛<br/>
+			<div class="headlineright wow animated bounceInRight" style="width:89.3%;height:62px;text-align:right">
+				· 2019深圳精准医疗高峰论坛<br/>
 				暨医疗健康专场路演 ·
 			</div>
 			<div class="activityBg" style="margin-bottom:50px;clear:both;margin-bottom:55px;">
-				我国精准医疗行业发展迅猛，市场规模增长速度较快，越来越多资本、企业进入该领域进行发展。在这一持续热门的领域,“一带一路”前海国际路演中心特邀行业大咖、产业资本、上市公司、独角兽企业等举办前海精准医疗高峰论坛暨医疗健康专场路演，共同探讨行业发展新模式、新技术以及行业的投资机会与逻辑。
+				我国精准医疗行业发展迅猛，市场规模增长速度较快，越来越多资本、企业进入该领域进行发展。在这一持续热门的领域,“一带一路”前海国际路演中心特邀行业大咖、产业资本、上市公司、独角兽企业等举办深圳精准医疗高峰论坛暨医疗健康专场路演，共同探讨行业发展新模式、新技术以及行业的投资机会与逻辑。
 			</div>
-			<div class="headlineleft" style="width:73.6%;">
-				· 部分拟邀嘉宾 ·
-			</div>
-			<div class="judge" style="margin-bottom:51px;">
-				<img src="./img/org.png" alt="">
-			</div>
-			<div class="headlineleft" style="width:73.6%;">
-				· 活动流程 ·
-			</div>
-			<!-- 时间轴 -->
-			<div class="timeShaft">
-				<div class="timeTitleTwo">
-					<span>09:00-12:00</span>
-					<span>2019前海精准医疗高峰论坛</span>
-				</div>
-				<ul>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>09:00-09:30</span>
-						<span>签到暖场</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>09:30-09:35</span>
-						<span>主持人开场</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>09:35-10:00</span>
-						<span>主办方致辞</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>10:00-10:15</span>
-						<span>主题演讲：中国精准医疗产业发展趋势</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>10:15-10:30</span>
-						<span>主题演讲：创新技术助推精准医疗发展</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>10:30-11:15</span>
-						<span>圆桌：医疗技术革新与产业升级</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>11:15-12:00</span>
-						<span>圆桌：精准医疗产业投资机会与逻辑</span>
-					</li>
-				</ul>
-				<div class="timeTitleTwo">
-					<span>13:30-18:00</span>
-					<span>医疗健康专场路演</span>
-				</div>
-				<ul>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>13:30-14:00</span>
-						<span>签到入场</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>14:00-14:05</span>
-						<span>主持人开场</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>14:05-14:20</span>
-						<span>聘书颁发仪式</span>
-					</li>
-					<li>
-						<span>
-							<i></i>
-						</span>
-						<span>14:20-17:50</span>
-						<span>项目路演</span>
-					</li>
-				</ul>
+			<div class="judge">
+				<img src="./img/time1.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time2.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time3.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time4.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time5.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time6.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time7.png"  alt="" style="margin-bottom:32px">
+				<img src="./img/time8.png"  alt="" style="margin-bottom:32px;width:172px">
 			</div>
 			<!-- 路演项目 -->
 			<div class="headlineright" style="width:73.6%;margin-top:10px;margin-bottom:19px">
@@ -469,13 +379,14 @@ export default {
 			tableList:[], // 报名列表数据
 			domain:'https://app.dyly.com',
 			joinFlag:false, // 参会报名显示和隐藏
-			title:'【邀请函】2019前海精准医疗高峰论坛暨医疗健康专场路演',
+			title:'【邀请函】2019深圳精准医疗高峰论坛暨医疗健康专场路演',
 			decs:'智汇全球·追梦前海 路演时间：11月28日9:00 路演地点：前海深港青年梦工场>>',
 			imgUrl:'https://m.dyly.com/register/app_h5/img/qh.jpg',
 			sharehref:'https://m.dyly.com/register/app_h5/qh/index.html'
 		}
 	},
 	created(){
+		new WOW().init();
 		// ModalHelper.afterOpen();
 		this.listenBody(); // 页面滚动
 		this.getTableList();
@@ -700,7 +611,7 @@ export default {
 }
 </script>
 <style lang="scss">
-
+	
 	.pasttrivia{
 		width:100%;
 		margin-bottom:40px;
@@ -772,7 +683,7 @@ export default {
 				width:100%;
 				position:absolute;
 				left:0;
-				bottom:164px;
+				bottom:174px;
 				z-index:1;
 				padding-left:26px;
 				box-sizing: border-box;
