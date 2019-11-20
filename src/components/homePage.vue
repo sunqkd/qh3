@@ -9,20 +9,20 @@
 			<div class="unit">
 				<span class="wow animated bounceInLeft">指导单位：前海管理局</span>
 				<span class="wow animated bounceInRight">主办单位：前海科创投控股有限公司</span>
-				<span class="wow animated bounceInRight" style="text-indent:65px;">前海科控创业投资有限公司</span>
-				<span class="wow animated bounceInLeft">承办单位：前海深港青年梦工场&ensp;第一路演</span>
-				<img class="wow animated bounceInRight" src="./img/LOGO@2x.png" alt="" style="height:20px;width:auto;margin-top:2px">
+				<span class="wow animated bounceInLeft" style="text-indent:65px;">前海科控创业投资有限公司</span>
+				<span class="wow animated bounceInRight">承办单位：前海深港青年梦工场&ensp;第一路演</span>
+				<img  src="./img/LOGO@2x.png" alt="" style="height:20px;width:auto;margin-top:2px">
 			</div>
 			<div class="icon-video transform"></div>
 			<audio src="https://static.dyly.com/h5/h5style/jinghe/bg.mp3" id="bg-music" controls="controls" autoplay="autoplay"
 				loop></audio>
 		</div>
 		<div class="homeBody">
-			<div class="headlineleft wow animated bounceInLeft" style="width:73.6%;">· 活动背景 ·</div>
+			<div class="headlineleft" style="width:73.6%;">· 活动背景 ·</div>
 			<div class="activityBg" style="margin-bottom:50px;">
 				粤港澳大湾区建设是习近平总书记亲自谋划、亲自部署、亲自推动的国家战略，是新时代推动形成全面开放新格局的新尝试，是推动“一国两制”事业发展的新实践，也是前海新时期开发开放重大战略机遇。前海立足国家战略优势，汇聚全球创新能量，建设“一带一路”国际路演中心，为全球科技创新企业提供资本及产业资源支持，搭建路演展示舞台，推动粤港澳大湾区建设。
 			</div>
-			<div class="headlineright wow animated bounceInRight" style="width:89.3%;height:62px;text-align:right">
+			<div class="headlineright" style="width:89.3%;height:62px;text-align:right">
 				· 2019深圳精准医疗高峰论坛<br/>
 				暨医疗健康专场路演 ·
 			</div>
