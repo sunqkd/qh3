@@ -380,7 +380,7 @@ export default {
 			domain:'https://app.dyly.com',
 			joinFlag:false, // 参会报名显示和隐藏
 			title:'【邀请函】2019中国精准医疗高峰论坛暨医疗健康专场路演',
-			decs:'智汇全球·追梦前海 路演时间：11月28日9:00 路演地点：前海深港青年梦工场>>',
+			decs:'智汇全球·追梦前海 路演时间：12月20日9:00 路演地点：前海深港青年梦工场>>',
 			imgUrl:'https://m.dyly.com/register/app_h5/img/qh.jpg',
 			sharehref:'https://m.dyly.com/register/app_h5/qh/index.html'
 		}
