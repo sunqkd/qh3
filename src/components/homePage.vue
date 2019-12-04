@@ -37,7 +37,7 @@
 				<img src="./img/time5.png"  alt="" style="margin-bottom:32px">
 				<img src="./img/time6.png"  alt="" style="margin-bottom:32px">
 				<img src="./img/time7.png"  alt="" style="margin-bottom:32px">
-				<img src="./img/time8.png"  alt="" style="margin-bottom:32px;width:172px">
+				<img src="./img/time8.png"  alt="" style="margin-bottom:32px;">
 			</div>
 			<!-- 路演项目 -->
 			<div class="headlineright wow animated jello" style="width:73.6%;margin-top:10px;margin-bottom:19px">
