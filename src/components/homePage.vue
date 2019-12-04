@@ -9,7 +9,7 @@
 			<div class="unit">
 				<span class="wow animated bounceInLeft">指导单位：前海管理局</span>
 				<span class="wow animated bounceInRight">主办单位：前海科创投控股有限公司</span>
-				<span class="wow animated bounceInLeft" style="text-indent:65px;">前海科控创业投资有限公司</span>
+				<span class="wow animated bounceInLeft" style="text-indent:65px;display:none" >前海科控创业投资有限公司</span>
 				<span class="wow animated bounceInRight">承办单位：前海深港青年梦工场&ensp;第一路演</span>
 				<img  src="./img/LOGO@2x.png" alt="" style="height:20px;width:auto;margin-top:2px">
 			</div>
