@@ -215,7 +215,7 @@
 			<div class="adressContain">
 				<div class="adress">
 					<span>
-						活动地址：<a href="http://apis.map.qq.com/uri/v1/marker?marker=coord:22.518,113.90;title:前海深港青年梦工场2号楼;addr: 广东省深圳市南山区前海深港合作区前海深港青年梦工场">前海深港青年梦工场</a>
+						活动地址：<a href="http://apis.map.qq.com/uri/v1/marker?marker=coord:22.518,113.90;title:前海深港青年梦工场2号楼;addr: 广东省深圳市南山区前海深港合作区前海深港青年梦工场">前海深港青年梦工场2号楼2-101</a>
 					</span>
 					<span>
 						公交路线：最近的地铁站是1号线鲤鱼门（出站后打车8分钟）、11号线南山站（车程15分钟）
