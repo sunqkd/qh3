@@ -117,9 +117,9 @@
 				</ul>
 			</div>
 
-			<div class="continue">
+			<!-- <div class="continue">
 				路演项目 持续邀约中...
-			</div>
+			</div> -->
 			<!-- 嘉宾评委团 -->
 			<div class="headlineleft wow animated jello" style="width:75%;margin-top:52px;display:flex;align-items:center">
 				· 嘉宾评委团 ·
