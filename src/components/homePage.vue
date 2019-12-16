@@ -220,7 +220,7 @@
 			<div class="tableContain">
 				<!-- 剩余报名人数 -->
 				<div class="residue">
-					剩余报名名额：{{148 - tableList.length >= 0? 148 - tableList.length:0}}
+					剩余报名名额：{{208 - tableList.length >= 0? 208 - tableList.length:0}}
 				</div>
 				<div class="interested">
                     <ul class="interestedUL">
